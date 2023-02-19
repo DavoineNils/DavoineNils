@@ -3,7 +3,7 @@
 
 <div align = 'left'>
 <a href="https://twitter.com/nastikbrahmin">
-  <img align="left" alt="anmolpant | Twitter" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/twitter.png" />
+  <img align="left" alt="anmolpant | Twitter" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/pantanmol/">
   <img align="left" alt="anmolpant's Linkdin" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/linkedin.png" />

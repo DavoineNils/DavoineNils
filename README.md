@@ -2,7 +2,7 @@
 <br/>
 
 <div align = 'left'>
-<a href="https://twitter.com/nastikbrahmin">
+<a href="https://twitter.com/NilsDavoine">
   <img align="left" alt="Nils | Twitter" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" />
 </a>
 <a href="https://fr.linkedin.com/in/nils-davoine-81b46b19b">

@@ -1,5 +1,5 @@
 ## Machine Learning applications in Theoretical Chemical Physics
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/7HuqlSbvKrzyzZhkzY/giphy.gif" width="46">   <img src="https://media.giphy.com/media/1FSNBA1Ixv3kao6OLk/giphy.gif" width="46">    <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="46"> 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/7HuqlSbvKrzyzZhkzY/giphy.gif" width="52">   <img src="https://media.giphy.com/media/1FSNBA1Ixv3kao6OLk/giphy.gif" width="52">    <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="52"> 
 
 <br/>
 

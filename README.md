@@ -16,17 +16,14 @@
 <p><em>Incoming Software Engineer at <a href="https://www.linkedin.com/company/societe_generale_global_solution_centre/?originalSubdomain=in">Société Générale</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-- 🔭 I’m currently working on getting my shit together.
-- 🔮 What do I do? - Predict the future via computer science black magic.
-- 🌱 I’m currently learning to use reinforcement learning in real life to control mechanical 
-      conveyances for transporting people or goods...basically, I'm learning how to drive. 
-- 👯 I’m looking to collaborate on Machine Learning, Java and Web Development related projects.
-- 🤔 I’m looking for help with LSTMs and Cloud Computing. 
-- 💬 Ask me about: anything but my life.
-- 📫 How to reach me: oohhh toodlesssss. I mean, use the links in the footer.
-- 😄 Pronouns: built/different
-- ⚡ Fun fact: Getting stabbed is very demotivating.
-- 📚 5 Words that best sum me up: Music, Movies, Memes, Minimalism, Melancholy.
+- 🔭 I’m currently working on a software development in theoretical chemistry using machine learning.
+- 🔮 What do I do ? - Research science! First year of PhD.
+- 🌱 Currently developping my skills in physics, machine learning and programming ! 
+- 👯 Hit me up if you are a member of the research scientist community!
+- 🤔 I’m looking for any kind of help, comments on my work if it does interest you !
+- 💬 Ask me about: anything related to my interest and passions
+- ⚡ Fun fact: I do Chess Boxing
+- 📚 5 Words that best sum me up: adventurous, witty, creative, romantic, ethereal
 
 
 **Languages and Tools:** 

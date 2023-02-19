@@ -13,7 +13,7 @@
 </a>
  <br /> <br />
 
-<p><em>Doctoral Researcher in Luxembourg, member of the <a href="https://www.tcpunilu.com/current-team-members">TCP Team</a><img src="https://static.wixstatic.com/media/112ac5_da0458423e6a4ba48e733f6e374503ce~mv2.png/v1/fill/w_248,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/112ac5_da0458423e6a4ba48e733f6e374503ce~mv2.png" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Doctoral Researcher in Luxembourg, member of the <a href="https://www.tcpunilu.com/current-team-members">TCP Team   </a><img src="https://static.wixstatic.com/media/112ac5_da0458423e6a4ba48e733f6e374503ce~mv2.png/v1/fill/w_248,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/112ac5_da0458423e6a4ba48e733f6e374503ce~mv2.png" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 - 🔭 I’m currently working on a software development in theoretical chemistry using machine learning.

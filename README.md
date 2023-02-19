@@ -34,7 +34,7 @@ I share some personal codes and projects I have made. You can find them also on 
 - 📚 5 Words that best sum me up: adventurous, witty, creative, romantic, ethereal
 
 
-**Languages and Tools:** 
+## Languages and Tools
 
 <p>
   <a href="https://github.com/anmolpant/SaniText">
@@ -52,39 +52,7 @@ I share some personal codes and projects I have made. You can find them also on 
   <br />
 </p>
 
-<div align="center">
-
-![VisitorCount](https://profile-counter.glitch.me/{anmolpant}/count.svg)
-
-</div>
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-    pronouns: "Bro" | "Bruh",
-    code: ["Javascript", "HTML", "Python", "Java", "C++"],
-    askMeAbout: ["Web Dev", "Tech", "Machine learning", "Software Development", "TV Shows", "Content Writing", "Memes"],
-    technologies: {
-        frontEnd: {
-            js: ["Vanilla", "jQuery"],
-            css: ["CSS3", "Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            python: ["flask"]
-            java : ["JSP"]
-        },
-        devOps: ["GCP"], ["Azure"]
-        databases: ["Mongo", "MySql", "sqlite", "phpMyAdmin", "Oracle"],
-        ML: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas", "Octave"]
-    },
-    currentProject: "Working on enhancing my current skillset whilst simultaneously looking for new opportunities.",
-    funFact: "My jokes are a cry for help."
-};
-```
-
-Please do consider dropping a ⭐ for this repo and some of my recent Deep Learning projects. 🥺
+<!-- Please do consider dropping a ⭐ for this repo and some of my recent Deep Learning projects. 🥺 -->
 
 <p align="center">
   <a href="https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray">
@@ -100,6 +68,6 @@ Please do consider dropping a ⭐ for this repo and some of my recent Deep Learn
 ## Need help?
 <i>Follow me around the web:</i><br>
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:anmol.pant2018@vitstudent.ac.in?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) [![GitHub Anmol](https://img.shields.io/github/followers/anmolpant?label=follow&style=social)](https://github.com/anmolpant) [![Portfolio](https://img.shields.io/badge/-anmolpant.github.io-242424?style=flat-square&logo=circle&logoColor=White)](https://anmolpant.github.io/) [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/anmol.pant.3) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/Anmol-Pant-3) [![Stackoverflow ask](https://img.shields.io/badge/StackOverflow-ask-orange)](https://stackoverflow.com/users/13553697/anmol-pant) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/anmolpant/) [![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/theanmolpant) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@anmolpant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pantanmol/) [![Trivago](https://img.shields.io/badge/Hotel%3F-Trivago-brightgreen)](https://www.trivago.in/) [![Twitter Follow](https://img.shields.io/twitter/follow/nastikbrahmin?style=social)](https://twitter.com/nastikbrahmin) 
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:nils.davoine@uni.lu?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) [![GitHub Anmol](https://img.shields.io/github/followers/anmolpant?label=follow&style=social)](https://github.com/DavoineNils) [![Portfolio](https://img.shields.io/badge/-anmolpant.github.io-242424?style=flat-square&logo=circle&logoColor=White)](https://davoinenils.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/nils-davoine-81b46b19b) [![Twitter Follow](https://img.shields.io/twitter/follow/nastikbrahmin?style=social)](https://twitter.com/NilsDavoine) 
 
 </p>

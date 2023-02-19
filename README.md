@@ -20,6 +20,8 @@ I share some personal codes and projects I have made. You can find them also on 
 </center>
 <br/>
 <br/>
+<br/>
+
 
 ## Snippets
 <br/>
@@ -33,6 +35,7 @@ I share some personal codes and projects I have made. You can find them also on 
 - 💬 Ask me about: anything related to my interest and passions
 - ⚡ Fun fact: I do Chess Boxing
 - 📚 5 Words that best sum me up: adventurous, witty, creative, romantic, ethereal
+<br/>
 
 
 ## Languages and Tools

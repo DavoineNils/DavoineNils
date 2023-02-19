@@ -35,13 +35,7 @@ I share some personal codes and projects I have made. You can find them also on 
 
 
 ## Languages and Tools
-
-<p>
-  <a href="https://github.com/anmolpant/SaniText">
-    <img width="60%" align="right" alt="Anmol's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anmolpant&show_icons=true&hide_border=true" />
-  </a>
-  
-  
+<p>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>

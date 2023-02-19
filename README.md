@@ -1,4 +1,4 @@
-<h2>Bonjour, Hey, Hallo, I'm Nils Davoine! <img src="https://media.giphy.com/media/zN2IXI0TEnalqdlCkZ/giphy.gif" width="360"></h2> <img align='right' src="https://media.giphy.com/media/ZBQJXF4aS8u2owCAuC/giphy.gif" width="230"> 
+<h2>Bonjour, Hey, Hallo, I'm Nils Davoine! <img src="https://media.giphy.com/media/zN2IXI0TEnalqdlCkZ/giphy.gif" width="36"></h2> <img align='right' src="https://media.giphy.com/media/ZBQJXF4aS8u2owCAuC/giphy.gif" width="230"> 
 <br/>
 
 <div align = 'left'>

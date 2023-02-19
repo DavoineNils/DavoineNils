@@ -7,7 +7,7 @@ I am a Doctoral Researcher in Luxembourg, member of the <a href="https://www.tcp
 </em></p>
 I share some personal codes and projects I have made. You can find them also on my website, and follow me for my post updates on the social media links below.
 
-<div align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/NilsDavoine">
   <img align="left" alt="Nils | Twitter" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" />
 </a>
@@ -17,7 +17,6 @@ I share some personal codes and projects I have made. You can find them also on 
 <a href="https://davoinenils.github.io/">
   <img align="left" alt="Nils' Portfolio" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/planet.svg" />
 </a>
-</center>
 <br/>
 <br/>
 <br/>

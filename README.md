@@ -6,8 +6,6 @@ Bonjour <img src="https://media.giphy.com/media/QynKqvM4I2EFrOH51P/giphy.gif" wi
 I am a Doctoral Researcher in Luxembourg, member of the <a href="https://www.tcpunilu.com/current-team-members">TCP Team</a>&nbsp;<img src="https://static.wixstatic.com/media/112ac5_da0458423e6a4ba48e733f6e374503ce~mv2.png/v1/fill/w_248,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/112ac5_da0458423e6a4ba48e733f6e374503ce~mv2.png" width="30"> &nbsp; at the <a href="https://wwwfr.uni.lu/">Uni. of Luxembourg  &nbsp;&nbsp; </a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/University_of_Luxembourg_logo_%28fr%29.svg/908px-University_of_Luxembourg_logo_%28fr%29.svg.png" width="30">
 </em></p>
 I share some personal codes and projects I have made. You can find them also on my website, and follow me for my post updates on the social media links below.
-
-<br/>
 <div align = 'left'>
 <a href="https://twitter.com/NilsDavoine">
   <img align="left" alt="Nils | Twitter" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" />

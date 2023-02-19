@@ -22,7 +22,7 @@ I share some personal codes and projects I have made. You can find them also on 
  <br /> <br />
 
 
-  ## About me:
+  ## Snippets
 
 - 🔭 I’m currently working on a software development in theoretical chemistry using machine learning.
 - 🔮 What do I do ? - Research science! First year of PhD.

@@ -18,6 +18,7 @@ I share some personal codes and projects I have made. You can find them also on 
   <img align="left" alt="Nils' Portfolio" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/planet.svg" />
 </a>
 <br/>
+<br/>
 
 ## Snippets
 

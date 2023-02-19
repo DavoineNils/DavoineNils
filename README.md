@@ -1,5 +1,6 @@
 ## Machine Learning applications in Theoretical Chemical Physics
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/7HuqlSbvKrzyzZhkzY/giphy.gif" width="46">   <img src="https://media.giphy.com/media/1FSNBA1Ixv3kao6OLk/giphy.gif" width="46">    <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="46"> 
+<br/>
 
 ## Who am I ?
 Bonjour <img src="https://media.giphy.com/media/QynKqvM4I2EFrOH51P/giphy.gif" width="36"> , Hallo <img src="https://media.giphy.com/media/MhxcOdjDlmVWg/giphy.gif" width="36"> , Hello <img src="https://media.giphy.com/media/Ffq1zxeJQMpRQn2mqy/giphy.gif" width="36"> , my name is Nils Davoine ! <br/>
@@ -49,6 +50,8 @@ I share some personal codes and projects I have made. You can find them also on 
 </p>
 
 <!-- Please do consider dropping a ⭐ for this repo and some of my recent Deep Learning projects. 🥺 -->
+
+<br/>
 
 ---
 ## Need help?

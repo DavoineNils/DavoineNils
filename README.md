@@ -22,7 +22,8 @@ I share some personal codes and projects I have made. You can find them also on 
 
 
 <br/>
-  ## Snippets
+
+## Snippets
 
 <br/>
 - 🔭 I’m currently working on a software development in theoretical chemistry using machine learning.
@@ -36,6 +37,7 @@ I share some personal codes and projects I have made. You can find them also on 
 
 
 <br/>
+
 ## Languages and Tools
   
 <br/>
@@ -55,6 +57,8 @@ I share some personal codes and projects I have made. You can find them also on 
 ---
 
 <br/>
+  
+
 ## Need help?
   
 <br/>

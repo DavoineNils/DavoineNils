@@ -1,8 +1,13 @@
-# Bonjour, Hey, Hallo, I'm Nils Davoine! <img src="https://media.giphy.com/media/7HuqlSbvKrzyzZhkzY/giphy.gif" width="36">   <img src="https://media.giphy.com/media/1FSNBA1Ixv3kao6OLk/giphy.gif" width="36">    <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="36"> 
+## Machine Learning applications in Theoretical Chemical Physics <img src="https://media.giphy.com/media/7HuqlSbvKrzyzZhkzY/giphy.gif" width="36">   <img src="https://media.giphy.com/media/1FSNBA1Ixv3kao6OLk/giphy.gif" width="36">    <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="36"> 
 <br/>
+
+## Who am I ?
+Bonjour, Hallo, Hello, my name is Nils Davoine !
 
 <p><em>Doctoral Researcher in Luxembourg, member of the <a href="https://www.tcpunilu.com/current-team-members">TCP Team &nbsp;  </a><img src="https://static.wixstatic.com/media/112ac5_da0458423e6a4ba48e733f6e374503ce~mv2.png/v1/fill/w_248,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/112ac5_da0458423e6a4ba48e733f6e374503ce~mv2.png" width="30"></br>PhD Student at <a href="https://wwwfr.uni.lu/">Luxembourg university  &nbsp;&nbsp; </a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/University_of_Luxembourg_logo_%28fr%29.svg/908px-University_of_Luxembourg_logo_%28fr%29.svg.png" width="30">
 </em></p>
+<br />
+Usefull links below:
 
 <div align = 'left'>
 <a href="https://twitter.com/NilsDavoine">
@@ -17,6 +22,7 @@
  <br /> <br />
 
 
+  ## About me:
 
 - 🔭 I’m currently working on a software development in theoretical chemistry using machine learning.
 - 🔮 What do I do ? - Research science! First year of PhD.

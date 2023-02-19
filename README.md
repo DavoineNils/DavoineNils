@@ -13,7 +13,7 @@
 </a>
  <br /> <br />
 
-<p><em>Doctoral Researcher in Luxembourg, member of the <a href="https://www.tcpunilu.com/current-team-members">TCP Team &nbsp;&nbsp;  </a><img src="https://static.wixstatic.com/media/112ac5_da0458423e6a4ba48e733f6e374503ce~mv2.png/v1/fill/w_248,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/112ac5_da0458423e6a4ba48e733f6e374503ce~mv2.png" width="30"></br>PhD Student at <a href="https://wwwfr.uni.lu/">Luxembourg university  &nbsp;&nbsp; </a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/University_of_Luxembourg_logo_%28fr%29.svg/908px-University_of_Luxembourg_logo_%28fr%29.svg.png" width="30">
+<p><em>Doctoral Researcher in Luxembourg, member of the <a href="https://www.tcpunilu.com/current-team-members">TCP Team &nbsp;  </a><img src="https://static.wixstatic.com/media/112ac5_da0458423e6a4ba48e733f6e374503ce~mv2.png/v1/fill/w_248,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/112ac5_da0458423e6a4ba48e733f6e374503ce~mv2.png" width="30"></br>PhD Student at <a href="https://wwwfr.uni.lu/">Luxembourg university  &nbsp;&nbsp; </a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/University_of_Luxembourg_logo_%28fr%29.svg/908px-University_of_Luxembourg_logo_%28fr%29.svg.png" width="30">
 </em></p>
 
 - 🔭 I’m currently working on a software development in theoretical chemistry using machine learning.
